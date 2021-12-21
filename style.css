@@ -1,0 +1,9 @@
+body{
+background-color:aqua;
+color:red;
+}
+#camera,#result{
+    border:2px dashed;
+    width:350px;
+    height: 300px;
+}
